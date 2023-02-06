@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Giulia Elisa Pereira 🐱
 
 - 🔭 Cursando Técnico em Informática integrado ao Ensino Médio
-- 🌱 Estudando Python, HTML, CSS e PHP
+- 🌱 Estudando Java
 - 😄 Pronomes: Ela/Dela
 
 <div>
