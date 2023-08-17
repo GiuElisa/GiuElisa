@@ -2,7 +2,6 @@
 
 - 🔭 Cursando Técnico em Informática integrado ao Ensino Médio
 - 🌱 Estudando Java
-- 😄 Pronomes: Ela/Dela
 
 <div>
   <a href="https://github.com/GiuElisa">
