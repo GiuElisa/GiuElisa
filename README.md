@@ -1,7 +1,6 @@
 ## Oie! Eu sou a Giulia Elisa Pereira 🐱
 
-- 🔭 Cursando Técnico em Informática integrado ao Ensino Médio
-- 🌱 Estudando Java
+- 🔭 Técnico em Informática
 
 <div>
   <a href="https://github.com/GiuElisa">
